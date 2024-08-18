@@ -1,5 +1,6 @@
 ---
 deployment:
-  tasks:
-    - export DEPLOYPATH=/home/cit4qzv/
-	- /bin/cp newFile.txt $DEPLOYPATH
+      tasks:
+                           
+        
+        
